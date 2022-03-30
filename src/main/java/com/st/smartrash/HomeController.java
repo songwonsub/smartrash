@@ -1,5 +1,5 @@
 package com.st.smartrash;
-
+//깃허브 수정용 주석
 import java.text.DateFormat;
 import java.util.Date;
 import java.util.Locale;
@@ -38,7 +38,7 @@ public class HomeController {
 	
 	@RequestMapping(value = "main.do", method = RequestMethod.GET)
 	public String mainViewForward() {
-		return "common/main";  // 내보낼 뷰파일명 리턴
+		return "common/main";  // �궡蹂대궪 酉고뙆�씪紐� 由ы꽩
 	}
 	
 	@RequestMapping(value = "about.do", method = RequestMethod.GET)
