@@ -31,8 +31,8 @@ AI사진 분류정보 페이지
 ![image](https://user-images.githubusercontent.com/95617999/168955473-74ae1ed7-05d6-44df-a050-c3ca061786ad.png)
 
 갤러리페이지
-![image](https://user-images.githubusercontent.com/95617999/168955501-4d10ea69-c660-48a0-9b1e-c1307887294b.png)
+![image](https://user-images.githubusercontent.com/95617999/168955700-ff4e72b3-4e24-43d3-8ba8-eb8195a48dea.png)
 
 갤러리 상세 페이지
-![image](https://user-images.githubusercontent.com/95617999/168955531-78237eaf-5b73-46be-a001-0308cea55618.png)
+![image](https://user-images.githubusercontent.com/95617999/168955713-651026c9-79a8-4f1e-b0b6-3d452bc097a8.png)
 
