@@ -22,7 +22,7 @@ AI사진 분류정보 페이지
 ![image](https://user-images.githubusercontent.com/95617999/168955374-352adb61-b26f-48b7-be4b-ef982c2c6f10.png)
 
 관리자페이지
-![image](https://user-images.githubusercontent.com/95617999/168955400-0d0dd405-2e6a-44f1-a10c-dd53bc3b0d9c.png)
+![image](https://user-images.githubusercontent.com/95617999/168955588-64f53c2d-d9cd-4922-9dc6-e58f31a012dd.png)
 
 관리자페이지2
 ![image](https://user-images.githubusercontent.com/95617999/168955451-6146a9ca-fbef-41d5-bd06-cbc64a9f0f00.png)
