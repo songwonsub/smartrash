@@ -1,6 +1,7 @@
-# smartrash
+## smartrash
 
 <strong>프로젝트 개요
+  
 ![image](https://user-images.githubusercontent.com/95617999/168955826-17b3078d-cc91-4fa2-a1d7-4b5bf2ee19f3.png)
 
 <strong>개발배경
