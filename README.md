@@ -11,7 +11,7 @@
 4. 분리수거의 흥미 및 관심 증진 
 5. 분리수거 쓰레기들을 좀더 정확하고 빠르게 분류해 내기 위함
 
-메인페이지
+<strong>메인페이지
 ![image](https://user-images.githubusercontent.com/95617999/168954411-1cb773cd-763a-4024-9a79-ff0d36947cc5.png)
 
 메인페이지(이미지 분류)
